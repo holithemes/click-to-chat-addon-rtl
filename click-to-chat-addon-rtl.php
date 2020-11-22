@@ -1,8 +1,8 @@
 <?php
 /*
 Plugin Name: Click to Chat - Addon - RTL
-Plugin URI:  https://wordpress.org/plugins/click-to-chat-for-whatsapp/
-Description: Reverse positions. If the page is RTL.
+Plugin URI:  https://github.com/holithemes/click-to-chat-addon-rtl
+Description: If the page is RTL, Reverse the positions. (right is left and left is right)
 Version:     1.0
 Author:      HoliThemes
 Author URI:  https://holithemes.com/plugins/click-to-chat/
