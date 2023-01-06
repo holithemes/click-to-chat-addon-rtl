@@ -1,4 +1,4 @@
-Reverse Positions, If the page is RTL.
+Reverse Positions, If the page is RTL
 
 In 'Click to Chat' if the position for the desktop is right: 10px; then the position for RTL pages on dekstop will change to left: 10px;
 
